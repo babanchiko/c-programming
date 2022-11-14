@@ -1,0 +1,13 @@
+// Title   : P21a.c
+// Purpose : The Hello World program
+// Author  : Bello Mohammed
+// Date    : 10/10/08
+
+#include <stdio.h> //includes the standard input output library
+int main() //The Program Main Body
+{
+printf("hello World\n"); // A printf statement to output the result
+return 0 ;
+}//end of program
+
+
